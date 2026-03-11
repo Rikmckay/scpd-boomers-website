@@ -1,0 +1,12 @@
+{
+  "elected": [
+    { "role": "President", "name": "Sherry Wright" },
+    { "role": "Vice President", "name": "Brenda Olivares" },
+    { "role": "Secretary", "name": "Annette Feliciani" },
+    { "role": "Treasurer", "name": "Jeannie Shaw" },
+    { "role": "Membership", "name": "Susan Boraston" }
+  ],
+  "appointed": [
+    { "role": "Event Administrator", "name": "Terri Matthias" }
+  ]
+}

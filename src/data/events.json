@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2025-11-11",
+    "title": "It's Game Day",
+    "description": "Gear up for a blast with exciting games. Don your favorite team gear and join the fun!",
+    "icon": "🏈"
+  },
+  {
+    "date": "2025-12-09",
+    "title": "Home for the Holidays",
+    "description": "Gather with loved ones, snuggle up, and let the warmth of the season fill your heart!",
+    "icon": "🎄"
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Mid Century Vibes",
+    "description": "Mid-Century meets Palm Springs. Step back in time with retro style and groovy beats!",
+    "icon": "🎵"
+  },
+  {
+    "date": "2026-02-10",
+    "title": "Paint the Town Red",
+    "description": "A Night Out in Vibrant Red! Dress to Dazzle!",
+    "icon": "🎨"
+  },
+  {
+    "date": "2026-03-10",
+    "title": "Amore",
+    "description": "An evening of Italian-inspired romance, food, and dancing. Amore!",
+    "icon": "❤️"
+  },
+  {
+    "date": "2026-04-14",
+    "title": "Spring Fling",
+    "description": "Welcome spring with a night of music, dancing, and celebration!",
+    "icon": "🌸"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "Season Finale",
+    "description": "Close out an amazing season with a grand celebration!",
+    "icon": "🎉"
+  }
+]
